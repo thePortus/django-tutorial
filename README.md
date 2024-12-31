@@ -1,3 +1,3 @@
 # Django Tutorial
 
-More coming soon
+More coming soon !!!
